@@ -27,8 +27,6 @@ Set up seamless cross-platform compatibility allowing Bedrock Edition players to
   * Fixed skin mapping, item texture bugs, and command prefix issues for Bedrock players.
   * Configured authentication and packet handling to prevent connection drops.
 
-> *[Insert a screenshot here showing Bedrock players online on the server]*
-> `![Geyser Crossplay](path/to/screenshot2.png)`
 
 ---
 
@@ -41,8 +39,8 @@ Implemented comprehensive anti-griefing, permission hierarchies, and exploit pre
   * Set up `CoreProtect` for granular block-change logging to easily track and rollback griefing or theft.
   * Configured advanced cheat prevention to block movement and combat exploits.
 
-> *[Insert a screenshot here showing clean permission setup or CoreProtect lookup]*
-> `![Security Setup](path/to/screenshot3.png)`
+ <img width="617" height="122" alt="image" src="https://github.com/user-attachments/assets/a809787f-ac31-47ff-ae0d-98a91854d383" />
+
 
 ---
 
