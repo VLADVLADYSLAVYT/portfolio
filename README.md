@@ -13,8 +13,8 @@ Optimized a resource-heavy survival server to maintain a stable 20 TPS under hea
   * Optimized hopper transfer rates and entity activation ranges while keeping vanilla gameplay intact.
   * Monitored and analyzed garbage collection to eliminate memory spikes.
 
-> *[Insert a screenshot here showing stable 20 TPS using /tps or spark profiler]*
-> `![TPS Optimization](path/to/screenshot1.png)`
+<img width="506" height="33" alt="image" src="https://github.com/user-attachments/assets/368d794f-c7bb-483d-abed-c9c343268eaa" />
+
 
 ---
 
