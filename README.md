@@ -40,7 +40,8 @@ Implemented comprehensive anti-griefing, permission hierarchies, and exploit pre
   * Configured advanced cheat prevention to block movement and combat exploits.
 
  <img width="617" height="122" alt="image" src="https://github.com/user-attachments/assets/a809787f-ac31-47ff-ae0d-98a91854d383" />
-<img width="617" height="122" alt="image" src="https://github.com/user-attachments/assets/5dcc4fc9-6e03-4d90-b332-41a95c8500fc" />
+ <img width="782" height="295" alt="image" src="https://github.com/user-attachments/assets/b502eb19-1a48-41de-ad21-2a62cfcbda39" />
+
 
 
 ---
